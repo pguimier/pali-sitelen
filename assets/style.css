@@ -1,0 +1,12 @@
+
+@font-face {
+    font-family: 'linjapona';
+    src: url('linjapona3-5OTF.ttf');
+         url('linjapona3-5OTF.ttf') format('truetype');
+        font-weight:100;
+}
+body{font-family:arial, sans; text-align:center;}
+.lp{font-family: "linjapona", sans;}
+.small{font-size:.5em;}
+.alanimi{ width:60%;margin:0;padding:.3em auto;height:2em;border:1px solid grey;font-size:1.4em;}
+.pokanimi{ width:52%;margin:0;padding:.3em auto;height:2em;border:1px solid grey;font-size:1.4em;}
