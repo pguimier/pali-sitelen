@@ -15,6 +15,7 @@ You can download fonts used from:
 - `Linja leko` by jan Selano / `Sitelen luka tu tu` by jan Inkepa: https://github.com/increpare/pixel-fonts-for-sitelen-pona/
 - `Linja pi kute mute`, `linja pi kute mute tu`, `linja pi kute mute regular`, by jan Inkepa: https://github.com/increpare/linja_pi_kute_mute
 - `Linja pi kama wan`, pi jan Inkepa: https://www.reddit.com/r/tokipona/comments/di59a6/linja_pi_kama_wan_latin_font_with_merged/
+- `Linja pimeja`, pi jan Inkepa: https://github.com/increpare/linja_pimeja
 
 Other fonts used:
 - `Sitelen pona`, by jan Wesi
