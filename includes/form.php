@@ -5,7 +5,7 @@
 </head>
 <body>
 <form name="myForm" action="./" method="get" target="_new">
-<textarea name="m" class="lp0" placeholder="sina pilin seme ?" rows="3" cols="80" onBlur="sitelenSin()"></textarea><br/>
+<textarea name="m" class="lp0" placeholder="sina pilin seme ?" rows="3" cols="80" onBlur="sitelenSin()" onKeypress="walolipu(event, this)"></textarea><br/>
 <b class='lp'>linja suli</b><input type="range" min="2" max="50" value="16" class="pokanimi" name="s" onChange="sitelenSin()"/><br/>
 <b class='lp'>kule sitelen</b><select name="c" class="pokanimi" onChange="sitelenSin()">
           <option value="000000" selected="selected">pimeja</option>

@@ -9,3 +9,10 @@ function sitelenSin()
         }
         sitelen.src = sitsrc;
 }
+function walolipu(e)
+{
+      var code = (e.keyCode ? e.keyCode : e.which);
+      if (code==0 || code == 32|| code == 13) {
+        sitelenSin();
+      }
+}
