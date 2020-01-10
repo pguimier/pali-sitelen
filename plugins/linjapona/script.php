@@ -5,7 +5,7 @@
 function transform($text)
 {
    include("nimi.php");
-   $cleantxt=str_replace(array("!",",",":",";",".","?","-","+","/","\n"), " ", $text);
+   $cleantxt=str_replace(array("!",",",":",";",".","?","+","/","\n"), " ", $text);
    $arr_txt=explode(" ", $cleantxt);
    foreach($arr_txt as $v)
    {
